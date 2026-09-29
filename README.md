@@ -58,9 +58,9 @@ Before running the project, make sure you have the following installed:
 
 🧑‍💻 Tech Stack
 
-Framework: Flutter
-Language: Dart
-Networking: Dio (REST API Integration)
+- Framework: Flutter
+- Language: Dart
+- Networking: Dio (REST API Integration)
 
 
 

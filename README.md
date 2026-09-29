@@ -64,8 +64,3 @@ Networking: Dio (REST API Integration)
 
 
 
-
-
-Language: Dart
-
-Networking: Dio (REST API Integration)
